@@ -10,7 +10,7 @@
     "preview": "vite preview --port 5173",
     "predeploy": "npm run build", 
     "deploy": "gh-pages -d dist --dotfiles",
-    "deploy-alt": "gh-pages -d dist --repo https://github.com/ammulaji/travelandexpensefrontend.git"
+    "deploy-alt": "gh-pages -d dist --repo https://github.com/ammulaji/TravelandExpenseApplication.git"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -26,6 +26,6 @@
     "typescript": "^5.6.2",
     "vite": "^5.4.8"
   },
-  "homepage": "https://ammulaji.github.io/travelandexpensefrontend"
+  "homepage": "https://ammulaji.github.io/TravelandExpenseApplication"
 
 }
